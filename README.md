@@ -10,8 +10,8 @@ _Create a portfolio webpage using HTML and CSS, which will later act as the land
 
 ## Setup/Installation Requirements
 
-* _[Click here] (https://gitmichelle.github.io/google-replica/) to view on gh-pages._
-* _Clone repository `https://github.com/gitmichelle/.git`
+* _[Click here] (https://gitmichelle.github.io/portfolio-landing-page/) to view on gh-pages._
+* _Clone repository `https://github.com/gitmichelle/portfolio-landing-page.git`
 
 ## Known Bugs
 
